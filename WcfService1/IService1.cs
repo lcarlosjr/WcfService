@@ -18,7 +18,7 @@ namespace WcfService1
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
-        // TODO: Adicione suas operações de serviço aqui
+        // TESTANDO...
     }
 
     [DataContract(Namespace = "http://www.portocred.com.br")]
